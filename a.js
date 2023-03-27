@@ -1,2 +1,2 @@
-console.log('AA');
-console.log('reset');
+console.log('A');
+console.log('feature-A');
